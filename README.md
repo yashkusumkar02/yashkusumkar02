@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashkusumkar02&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=151515"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkusumkar02&" alt="yashkusumkar02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkusumkar02&title_color=bb2acf&text_color=daf7dc&bg_color=151515"/></p>
