@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Android, Java, Flutter**
 
-- 📫 How to reach me **kusumkarsuyash1234@gmail.com**
-
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
@@ -29,5 +27,10 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashkusumkar02&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=151515"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkusumkar02&title_color=bb2acf&text_color=daf7dc&bg_color=151515"/></p>
+
+<h2>📫 How to reach me:</h2>
+
+<a href="mailto:kusumkarsuyash1234@gmail.com">![kusumkarsuyash1234@gmail..com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/suyash-kusumkar/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 
 
