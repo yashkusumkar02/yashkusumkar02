@@ -3,10 +3,6 @@
 <h3 align="center">A passionate Android Developer from India</h3>
 <img align="right" alt="Coding" width="500" src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkusumkar02&label=Profile%20views&color=0e75b6&style=flat" alt="yashkusumkar02" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ykusumkar" target="blank"><img src="https://img.shields.io/twitter/follow/ykusumkar?logo=twitter&style=for-the-badge" alt="ykusumkar" /></a> </p>
-
 - 🌱 I’m currently learning **Android Studio**
 
 - 💬 Ask me about **Android, Java, Flutter**
@@ -31,6 +27,9 @@
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:kusumkarsuyash1234@gmail.com">![kusumkarsuyash1234@gmail..com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/suyash-kusumkar/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://twitter.com/ykusumkar" target="blank"><img src="https://img.shields.io/twitter/follow/ykusumkar?logo=twitter&style=for-the-badge" alt="ykusumkar" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkusumkar02&label=Profile%20views&color=0e75b6&style=flat" alt="yashkusumkar02" /> </p>
 
 
 
